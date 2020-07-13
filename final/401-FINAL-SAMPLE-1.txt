@@ -1,0 +1,45 @@
+Section 1:  TRUE / FALSE  1 pt each
+
+
+1)  When you extend a class you are required to write a constructor.
+	
+2)  By using the keyword super you can invoke a method that resides in your parent's class
+
+3)  You can extend multiple classes - i.e. your new class can have multiple immediate parents
+
+4)  You can implement multiple interfaces.
+
+5)  You can declare all your constuctors as private.
+
+6)  Polymorphism means wherever a reference (non primitive) type is expected I can use an object of the same type or its parent type.
+
+7)  Polymorphism means anywhere any primitive is expected I can use any object type and it will automatically and convert between any type to any type.
+
+8)  All classes have Object (capital "O") type as thier ancestor.
+
+9)  The search operation on a HashSet is faster than a search into an unsorted array. 
+
+10)  The search operation on a HashSet is faster than a search into an sorted array. 
+
+11)  The search for an element in a TreeSet is faster that a search on a sorted array.
+
+12) When you pass a reference variable into a method, you cannot change the actual value inside that ref var because you were just passing a copy of the value.
+ 
+ 
+
+Section 2: Free response 2 pts each   
+
+
+1) What is the difference betwen deep and shallow copy?    
+
+2) What benefits does inheritence bring to a Java programmer programmer?  
+	
+3) Why should the data members of a class be private instead of public?   
+	
+4) Name one difference between a checked and an unchecked exception.      
+
+5) Name a Java class (class, not interface) that is good for representing members of a group and doing matematical 
+operations such as membership, intersection or union.                     
+		
+6) Why does TreeSet insist that any type you put into it implements Comparable?  	 
+
